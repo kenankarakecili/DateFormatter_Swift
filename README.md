@@ -1,5 +1,5 @@
 # KKDateFormatter_Swift
-A memory effective date converter class
+A memory effective date formatter class
 
 #Usage
 - Converting an NSDate object
